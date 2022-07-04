@@ -1,1 +1,1 @@
-# Kaggle-Notebooks
+# Kaggle Mini Projects
